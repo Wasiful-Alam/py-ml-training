@@ -1,4 +1,13 @@
 # Byte-compiled / optimized / DLL files
+
+
+data
+notebooks/Refactored_Py_DS_ML_Bootcamp-master
+*.csv
+*.txt
+*.png
+.idea
+
 __pycache__/
 *.py[cod]
 *$py.class
