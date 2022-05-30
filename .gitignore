@@ -8,6 +8,9 @@ notebooks/Refactored_Py_DS_ML_Bootcamp-master
 *.png
 .idea
 
+notebooks/.history
+notebooks/mkTab.ipynb
+
 __pycache__/
 *.py[cod]
 *$py.class

@@ -8,11 +8,15 @@ pandas = "*"
 jupyterlab = "*"
 xlrd = "*"
 matplotlib = "*"
+seaborn = "*"
+pandas-datareader = "*"
+plotly = "*"
+cufflinks = "*"
+mysql-connector-python = "*"
+scikit-learn = "*"
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.9"
-
-
-
